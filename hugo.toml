@@ -7,6 +7,7 @@ theme = "hello-friend-ng"
 [params]
 description = "Coworking Space mit 4 Schreibtischen, ruhig, klein, familiär"
 contactEmail = "cohelet.space@proton.me"
+contact_formspree_id = "xdklozay"       # falls Formspree genutzt wird
 contactPhone = "+49 123 4567890"
 address = "Parsevalstr. 7, 02826 Görlitz"
 openingHours = "7:00–22:00"
@@ -27,7 +28,7 @@ mask = true
 
 # Kontaktformular
 contact_service = "formspree"  # "netlify", "formspree" oder "php"
-contact_formspree_id = "xdklozay"       # falls Formspree genutzt wird
+
 
 [menu]
   [[menu.main]]
