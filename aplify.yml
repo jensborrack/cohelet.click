@@ -1,0 +1,17 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        # Installiere exakt die gleiche Hugo-Version wie lokal
+        - wget https://github.com/gohugoio/hugo/releases/download/v0.148.2/hugo_0.148.2_Linux-64bit.deb
+        - sudo dpkg -i hugo_0.148.2_Linux-64bit.deb
+    build:
+      commands:
+        - hugo --minify
+  artifacts:
+    baseDirectory: public
+    files:
+      - '**/*'
+  cache:
+    paths: []
