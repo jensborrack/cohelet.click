@@ -27,7 +27,7 @@ mask = true
 
 # Kontaktformular
 contact_service = "formspree"  # "netlify", "formspree" oder "php"
-contact_formspree_id = "https://formspree.io/f/xdklozay"       # falls Formspree genutzt wird
+contact_formspree_id = "xdklozay"       # falls Formspree genutzt wird
 
 [menu]
   [[menu.main]]

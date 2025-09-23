@@ -21,7 +21,7 @@ Klein, ruhig, persönlich, zentral gelegen.
 ![Küche / Kaffeemaschine](/images/kueche1.jpg)
 
 ### Adresse & Lage
-Parsevalstr. 7, 02826 Görlitz  
+Parsevalstr. 7, 02828 Görlitz  
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=14.970390200614931%2C51.156547163280855%2C14.973753690719606%2C51.15802417025565&amp;layer=mapnik" style="border: 1px solid black"></iframe>
 
