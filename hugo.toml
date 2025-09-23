@@ -1,0 +1,58 @@
+baseURL = "http://cohelet.space/"
+languageCode = "de-de"
+title = "Coworking Büro Görlitz Parsevalstr."
+theme = "hello-friend-ng"
+
+# Blog / News Einstellungen
+enableEmoji = true
+[pagination]
+  pagerSize = 5
+
+
+[params]
+  description = "Coworking Space mit 4 Schreibtischen — ruhig, klein, familiär."
+  subtitle = "Kleines Büro zum Arbeiten"
+  email = "cohelet.space@proton.me"
+  phone = "+49 0XXXX XXXX"
+  address = "Parsevalstr. 7, 02826 Görlitz"
+  opening_hours = "Mo–So 07:00–22:00 (Zugang mit Schlüssel)"
+
+  # Banner / Header
+  banner = "images/banner.jpg"  # lege Banner unter /static/images/banner.jpg ab
+
+  # Favicon (optional)
+[params.favicon]
+  icon = "images/favicon.png"
+  mask = true
+
+
+  # Kontaktformular
+  contact_service = "formspree"  # "netlify", "formspree" oder "php"
+  contact_formspree_id = ""       # falls du Formspree nutzt
+  
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Über uns"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    name = "Kontakt"
+    url = "/contact"
+    weight = 3
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts"
+    weight = 4
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
