@@ -1,5 +1,5 @@
 ---
-title: "Cohelet Coworking Büro Görlitz"
+title: "Coworking Büro Görlitz"
 type: "page"
 layout: "page"
 url: "/"
@@ -8,10 +8,10 @@ menu: ""
 
 ## Willkommen im Cohelet Space
 
-Klein, ruhig, persönlich.
+Klein, ruhig, persönlich, zentral gelegen.
 
 ### Was wir bieten
-- 4 Schreibtische  
+- 4 Schreibtische im Gemeinschaftsbüro  
 - WLAN, Drucker, Kaffee/Tee  
 - Gemeinschaftsküche  
 - Meeting-Möglichkeit  
@@ -35,8 +35,8 @@ Parsevalstr. 7, 02826 Görlitz
 [Hier Platz buchen →](kontakt)
 
 ### Öffnungszeiten & Zugang
-7:00–22:00, Schlüssel auf Anfrage
+7:00–22:00, Keine Rezeption, bitte Voranmeldung, Schlüssel auf Anfrage
 
 ### Extras
-WLAN, Drucker,
+WLAN, Drucker
 

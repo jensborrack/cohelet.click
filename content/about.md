@@ -4,7 +4,10 @@ type: "page"
 layout: "page"
 ---
 
-## Über Cohelet Space
+## Über Uns
+Wir sind eine kleine Gemeinschaft von Christen, die remote arbeiten und dies aber in geistlicher Gemeinschaft tun wollen.
+
+## Über den Cohelet Space
 
 Cohelet Space ist ein kleiner Coworking Space in Görlitz, der Ruhe, Übersichtlichkeit und persönliche Atmosphäre bietet.  
 
@@ -15,10 +18,7 @@ Cohelet Space ist ein kleiner Coworking Space in Görlitz, der Ruhe, Übersichtl
 
 Unser Ziel ist einfach: einen Ort zu bieten, an dem man konzentriert arbeiten kann, ohne großen Schnickschnack.  
 
-### Adresse
-Parsevalstr. 7, 02826 Görlitz
 
-[Karte ansehen](https://www.openstreetmap.org/?mlat=51.1515&mlon=14.994#map=19/51.1515/14.994)
 
 ### Kontakt
 - E-Mail: cohelet.space@proton.me  
