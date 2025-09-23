@@ -23,5 +23,5 @@ Unser Ziel ist einfach: einen Ort zu bieten, an dem man konzentriert arbeiten ka
 ### Kontakt
 - E-Mail: cohelet.space@proton.me  
 - Telefon: +49 123 4567890  
-- [Kontaktformular](kontakt)
+- [Kontaktformular](/kontakt)
 
