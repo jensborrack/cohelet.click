@@ -49,6 +49,12 @@ contact_formspree_id = "https://formspree.io/f/xdklozay"       # falls Formspree
   name = "Kontakt"
   url = "/kontakt"
   weight = 4
+  
+  [params.footer]
+  trademark = "Cohelet Coworking Büro Görlitz"
+  author = "Jens Borrack"
+  copyright = "Alle Rechte vorbehalten"
+  rss = false
 
 [markup]
   [markup.goldmark.renderer]
