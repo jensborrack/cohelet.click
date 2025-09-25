@@ -21,6 +21,19 @@ meetingRoom = true
 # Banner / Header
 banner = "images/banner.jpg"   # unter /static/images/banner.jpg ablegen
 
+[[params.social]]
+name = "linkedin"
+url = "https://linkedin.com/in/platzhalter"
+rel = "nofollow"
+nonewpage = false
+
+[[params.social]]
+name = "instagram"
+url = "https://instagram.com/platzhalter"
+rel = "nofollow"
+nonewpage = false
+
+
 # Favicon (optional)
 [params.favicon]
 icon = "images/favicon.png"
@@ -42,8 +55,8 @@ contact_service = "formspree"  # "netlify", "formspree" oder "php"
   weight = 2
   
   [[menu.main]]
-  name = "Stipendien"
-  url = "/stipendium"
+  name = "Studentenförderung"
+  url = "/studenten"
   weight = 3
 
   [[menu.main]]
